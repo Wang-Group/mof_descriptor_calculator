@@ -1,0 +1,94 @@
+data_ZSTU-2
+_audit_creation_date              2024-01-10
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P63/MCM'
+_symmetry_Int_Tables_number       193
+_symmetry_cell_setting            hexagonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  -x,-y,z+1/2
+  y,-x+y,z+1/2
+  x-y,x,z+1/2
+  y,x,-z+1/2
+  x-y,-y,-z+1/2
+  -x,-x+y,-z+1/2
+  -y,-x,-z
+  -x+y,y,-z
+  x,x-y,-z
+  -x,-y,-z
+  y,-x+y,-z
+  x-y,x,-z
+  x,y,-z+1/2
+  -y,x-y,-z+1/2
+  -x+y,-x,-z+1/2
+  -y,-x,z+1/2
+  -x+y,y,z+1/2
+  x,x-y,z+1/2
+  y,x,z
+  x-y,-y,z
+  -x,-x+y,z
+_cell_length_a                    20.1600
+_cell_length_b                    20.1600
+_cell_length_c                    11.7580
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 120.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+O1     O     0.21261   0.14764   0.43362   0.00000  Uiso   1.00
+C2     C     0.45676   0.27303   0.43166   0.00000  Uiso   1.00
+C3     C     0.37607   0.23256   0.43137   0.00000  Uiso   1.00
+H4     H     0.48656   0.32251   0.37684   0.00000  Uiso   1.00
+H5     H     0.34649   0.25273   0.37698   0.00000  Uiso   1.00
+O6     O     0.12873   0.06828   0.25000   0.00000  Uiso   1.00
+H7     H     0.18467   0.08843   0.25000   0.00000  Uiso   1.00
+O8     O     0.08724   0.08724   0.56305   0.00000  Uiso   1.00
+Ti15   Ti    0.10230   0.10230   0.39661   0.00000  Uiso   1.00
+C9     C     0.49854   0.24927   0.50000   0.00000  Uiso   1.00
+C10    C     0.33421   0.16710   0.50000   0.00000  Uiso   1.00
+C11    C     0.24785   0.12393   0.50000   0.00000  Uiso   1.00
+C12    C     0.58502   0.29251   0.50000   0.00000  Uiso   1.00
+C13    C     0.62648   0.37352   0.50000   0.00000  Uiso   1.00
+H14    H     0.59547   0.40453   0.50000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+O1     C11     1.297   .     A
+O1     Ti15    1.984   .     S
+C2     C3      1.409   .     A
+C2     H4      1.083   .     S
+C2     C9      1.410   .     A
+C3     H5      1.083   .     S
+C3     C10     1.411   .     A
+O6     H7      0.989   .     S
+O6     Ti15    2.023   .     S
+O6     Ti15    2.023   7     S
+O8     Ti15    1.980   .     S
+O8     Ti15    1.986   11_556 S
+O8     Ti15    1.986   12_556 S
+Ti15   O1      1.984   22    S
+Ti15   O6      2.023   7     S
+Ti15   O8      1.986   11_556 S
+Ti15   O8      1.986   12_556 S
+C9     C2      1.410   12_556 A
+C9     C12     1.510   .     S
+C10    C3      1.411   12_556 A
+C10    C11     1.508   .     S
+C11    O1      1.297   12_556 A
+C12    C13     1.414   .     A
+C12    C13     1.414   2_655 A
+C13    C12     1.414   3_665 A
+C13    H14     1.083   .     S
