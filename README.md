@@ -9,6 +9,8 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+pymatgen
+molSimplify
 ```
 Install the dependencies using pip.
 
