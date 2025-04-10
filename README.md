@@ -36,7 +36,7 @@ import pandas as pd
 import os
 
 # find the paths of the cifs 
-cifs = [i for i in os.listdir("./cifs_14MOFs/") if i.endswith("cif")]
+cifs = [i for i in os.listdir("./cifs/") if i.endswith("cif")]
 
 # the working path for zeo
 zeo_path = "../zeo++-0.3/network" # path to the zeo++-0.3 package
